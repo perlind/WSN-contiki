@@ -70,7 +70,7 @@ unsigned long clock_seconds(void);
 
 #ifndef SHELL_CONF_PROMPT
 #define SHELL_CONF_PROMPT
-extern static char shell_prompt_text[] = "WSN> ";
+static char shell_prompt_text[] = "WSN> ";
 #endif
 
 /* 
