@@ -1,0 +1,21 @@
+b:1
+
+*******Booting Contiki 2.6*******
+Probing I2C:
+AT24MAC60 DS18B20
+Rime addres: 0.0
+Rime addres: 42.43
+RIMEADDR_SIZE = 2
+EUI-64 MAC: 2a-2b-41-ff-7-0-0-28
+nullmac nullrdc, channel 0 , check rate 128 Hz tx power 0
+Init
+
+********EUI64 ADDR : fc c2 3d 00 00 01 82 df ********
+Process begins for test_serial !!
+Ch=26 TxPwr=0
+Online
+&: E64=fcc23d00000182df T_MCU=25.5  V_MCU=3.08  PROX=0 AMB=0 T=85.00
+&: E64=fcc23d00000182df T_MCU=25.5  V_MCU=3.08  PROX=0 AMB=0 T=21.88
+&: E64=fcc23d00000182df T_MCU=26.7  V_MCU=3.08  PROX=0 AMB=0 T=21.88
+
+
